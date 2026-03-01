@@ -8,5 +8,10 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "request": "^2.88.2",
+    "wiki-infobox-parser": "^0.1.11"
+  }
 }
